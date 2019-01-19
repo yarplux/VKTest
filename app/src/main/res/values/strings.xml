@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebimTest</string>
+    <string name="login">авторизоваться</string>
+</resources>
